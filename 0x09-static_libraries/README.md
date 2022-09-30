@@ -1,1 +1,1 @@
-Non empty REDME file for static libraries
+Non empty README file for static libraries
